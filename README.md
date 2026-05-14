@@ -25,6 +25,8 @@ The app has 2 screens for creating and viewing a packing list. Users can add ite
 - All actions use `println()` for logging to demonstrate code flow
 
 ## Screenshots
+<img width="437" height="407" alt="image" src="https://github.com/user-attachments/assets/330207a1-3a36-497b-a85c-27d7b9968076" />
+
 
 
 ## Setup Instructions
